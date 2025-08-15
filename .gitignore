@@ -1,0 +1,18 @@
+# .NET ignores
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.sln.docstates
+
+# React ignores
+frontend/node_modules
+build/
+dist/
+.env
+
+# OS ignores
+.DS_Store
+Thumbs.db
